@@ -80,20 +80,5 @@ npm test
 
 Os testes iniciam o servidor em uma porta livre e verificam os resultados, o limite de aprovação, os erros de entrada, a interrupção pelo controlador de acesso e o bloqueio dos templates.
 
-## Entrega no GitHub
-
-Crie um repositório vazio no GitHub. Dentro desta pasta, execute os comandos abaixo, substituindo o endereço pelo seu repositório:
-
-```bash
-git init
-git add .
-git commit -m "Implementa cálculo de média com controle de acesso em chain"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-git push -u origin main
-```
-
-
-
 - Integrante 1: Eduardo de Sousa Barbosa
 - Integrante 2: Gabriely Benito Monteiro
