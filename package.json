@@ -1,0 +1,8 @@
+{
+  "name": "projeto05-media-chain",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Média escolar com Node.js puro e Chain of Responsibility",
+  "scripts": { "start": "node app.js", "test": "node --test" },
+  "engines": { "node": ">=22" }
+}
