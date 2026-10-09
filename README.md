@@ -93,7 +93,7 @@ git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 git push -u origin main
 ```
 
-Antes de entregar, adicione abaixo os nomes dos dois integrantes. Cada integrante deve enviar o link do GitHub conforme as instruções da disciplina.
 
-- Integrante 1: preencher
-- Integrante 2: preencher
+
+- Integrante 1: Eduardo de Sousa Barbosa
+- Integrante 2: Gabriely Benito Monteiro
